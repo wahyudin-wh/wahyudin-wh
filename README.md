@@ -1,8 +1,8 @@
 
 # Hello Everyone! 👋
 
-Hi, my name is Wahyudin Alipudin, I Graduated Informatics Engineering University Pamulang majoring in Computer Science.Have an interest in technology
-Familiar with Web technologies Developers. I am open to opportunities work in any field.
+Hi, my name is Wahyudin Alipudin, I Graduated Informatics Engineering University Pamulang majoring in Computer Science, Have an interest in technology
+Familiar with Web technologies Developers I am open to opportunities work in any field.
 
 ### 😄 Pronouns
 He/Him
