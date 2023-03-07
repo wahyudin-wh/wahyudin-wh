@@ -24,13 +24,6 @@ He/Him
 - Programming language stats
 <a href="https://github.com/wahyudin-wh">
 
-&nbsp; 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyudin-wh&layout=compact&langs_count=8&theme=algolia"/>
-
-</a>
-
-</p>
-
 
 <!---
 wahyudin-wh/wahyudin-wh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
