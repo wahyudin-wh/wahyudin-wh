@@ -21,8 +21,6 @@ He/Him
 
 ### Quick overview
 
-- Programming language stats
-<a href="https://github.com/wahyudin-wh">
 
 
 <!---
